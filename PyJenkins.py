@@ -8,3 +8,5 @@ print 'Got it working finally!!!'
 print 'Jenkins job will run once git commit is pushed'
 
 print 'Added feature1 branch'
+
+print 'Checking for commit-msg Hook.'
