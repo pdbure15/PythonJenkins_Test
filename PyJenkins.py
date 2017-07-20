@@ -13,6 +13,4 @@ print 'Checking for commit-msg Hook.'
 
 print 'Removed the statement.'
 
-print 'Now testing commit-msg hook, prepare-commit-msg disabled.'
-
-print 'Testing commit-hook for branch SVC-123, prepare-commit-msg disabled.'
+print 'commit-msg hooks prints deleted.'
