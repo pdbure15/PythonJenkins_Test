@@ -14,3 +14,5 @@ print 'Checking for commit-msg Hook.'
 print 'Removed the statement.'
 
 print 'commit-msg hooks prints deleted.'
+
+print 'Checking update hook!!'
