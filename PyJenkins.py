@@ -8,3 +8,5 @@ print 'Got it working finally!!!'
 print 'Jenkins job will run once git commit is pushed'
 
 print 'Removed the statement.'
+
+print 'Now testing commit-msg hook, prepare-commit-msg disabled.'
