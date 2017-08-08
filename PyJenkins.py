@@ -16,3 +16,7 @@ print 'Removed the statement.'
 print 'commit-msg hooks prints deleted.'
 
 print 'Checking update hook!!'
+
+print 'Got a new task, Webhook test - 1.'
+
+print 'Got a new task, Webhook test - 2.'
