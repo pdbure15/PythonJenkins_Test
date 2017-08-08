@@ -26,3 +26,5 @@ print 'Got a new task, Webhook test - 3.'
 print 'Got a new task, Webhook test - 4.'
 
 print 'Got a new task, Webhook test - 5.'
+
+print 'BRANCH - MASTER, Got a new task, Webhook test - 6.'
