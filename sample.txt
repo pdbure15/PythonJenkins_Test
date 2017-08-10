@@ -1,0 +1,4 @@
+This is a sample file.
+Checking update hook - test 1.
+CHecking update hook - test 2.
+Checnking update hook - test 3.
