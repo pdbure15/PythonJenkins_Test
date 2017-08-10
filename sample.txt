@@ -5,3 +5,4 @@ Checnking update hook - test 3.
 Checking update hook - test 4.
 Checking update hook - test 5.
 Checking update hook - test 6.
+Checking udpdate hook - test 7.
