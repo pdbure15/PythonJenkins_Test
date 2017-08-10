@@ -8,4 +8,4 @@ Checking update hook - test 6.
 Checking udpdate hook - test 7.
 Checking update hook - test 8.
 Checking pre-receive hook - test 9.
-
+Checking pre-receive hook - test 10.
