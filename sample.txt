@@ -10,3 +10,4 @@ Checking update hook - test 8.
 Checking pre-receive hook - test 9.
 Checking pre-receive hook - test 10.
 Checking pre-push hook - test 11.
+Checking pre-push hook - test 12.
