@@ -16,3 +16,4 @@ Checking sys.argv parameters.
 Checking sys.argv line by line.
 Checking Git Alias in .gitconfig to list new commit after GIT PULL test 1.
 Checking Git Alias in .gitconfig to list new commit after GIT PULL test 2.
+Checking Git Alias in .gitconfig to list new commit after GIT PULL test 3.
