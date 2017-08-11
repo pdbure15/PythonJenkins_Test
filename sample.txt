@@ -14,3 +14,4 @@ Checking pre-push hook - test 12.
 Checking pre-push hook - test 13.
 Checking sys.argv parameters.
 Checking sys.argv line by line.
+Checking git-receive-pack post git update.
