@@ -1,0 +1,18 @@
+#!/usr/bin/env python
+
+import sys
+from subprocess import check_output
+
+old_commit = sys.argv[1]
+new_commit = sys.argv[2]
+
+print '>>OLD-COMMIT:',old_commit
+print '>>NEW-COMMIT:',new_commit
+
+#git rev-list #{$oldrev}..#{$newrev}`
+gitCmd = 'git rev-list ' + old_commit + '..' + new_commit 
+#commitDetails = check_output(gitCmd, shell=True).split("\n")
+#print '>>>Commit-Details:\n',commitDetails
+
+# Abort pushing only this branch
+# sys.exit(1)
