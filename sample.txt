@@ -12,5 +12,4 @@ Checking pre-receive hook - test 10.
 Checking pre-push hook - test 11.
 Checking pre-push hook - test 12.
 Checking pre-push hook - test 13.
-Checking sys.argv parameters.
-Checking sys.argv line by line.
+Checking sys.argv parameters, using post-receive hook.
