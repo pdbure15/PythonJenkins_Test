@@ -1,0 +1,13 @@
+#!/usr/bin/env python
+
+import sys
+from subprocess import check_output
+
+old_commit = sys.argv[1]
+new_commit = sys.argv[2]
+
+print '>>Update Hook arguments:',str(sys.argv)
+
+gitCmd = 'git rev-list ' + old_commit + '..' + new_commit 
+#commitDetails = check_output(gitCmd, shell=True).split("\n")
+#print '>>>Commit-Details:\n',commitDetails
