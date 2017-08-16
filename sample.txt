@@ -1,17 +1,2 @@
 This is a sample file.
-Checking update hook - test 1.
-CHecking update hook - test 2.
-Checnking update hook - test 3.
-Checking update hook - test 4.
-Checking update hook - test 5.
-Checking update hook - test 6.
-Checking udpdate hook - test 7.
-Checking update hook - test 8.
-Checking pre-receive hook - test 9.
-Checking pre-receive hook - test 10.
-Checking pre-push hook - test 11.
-Checking pre-push hook - test 12.
-Checking pre-push hook - test 13.
-Checking sys.argv parameters.
-Checking sys.argv line by line.
-Checking git-receive-pack post git update.
+Checking pull-request webhook.
